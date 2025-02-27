@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="_OBY0l_fAxPQ2nxZ6DaI">
-    <mxGraphModel>
+    <mxGraphModel dx="1760" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-24" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-22" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="165" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="880" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-7" value="INPUT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-8" value="PROCESS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-10" value="OUTPUT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="910" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;li data-end=&quot;1870&quot; data-start=&quot;1795&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Waste materials generated in schools (paper, plastic, food waste, etc.)&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;1947&quot; data-start=&quot;1874&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;1947&quot; data-start=&quot;1874&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Awareness and behavior of students and staff toward waste segregation&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;2001&quot; data-start=&quot;1951&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;2001&quot; data-start=&quot;1951&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Existing waste management practices in schools&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="480" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="260" width="70" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="660" width="70" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;li data-end=&quot;2083&quot; data-start=&quot;2024&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Integration of &lt;span data-end=&quot;2053&quot; data-start=&quot;2041&quot;&gt;Trashbot&lt;/span&gt; for automated waste sorting&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;2147&quot; data-start=&quot;2087&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;2147&quot; data-start=&quot;2087&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Training and awareness programs on proper waste disposal&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;2202&quot; data-start=&quot;2151&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li data-end=&quot;2202&quot; data-start=&quot;2151&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Data collection on waste segregation efficiency&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="435" width="470" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="0i3dLvMc-M2TmBxBcZuS-20" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Improved waste segregation and management in school.&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Increased awareness and participation in proper waste disposal.&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;A cleaner and more sustainable school environment.&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="805" width="470" height="285" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
